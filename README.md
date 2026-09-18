@@ -20,7 +20,7 @@ A2：如Q1所答，课程演示使用foundry云，对应代码包括配置部署
 
 第一步（创建虚拟环境）：<br>
 打开vscode terminal （终端），输入<br>
-Cd 你的路径\文件夹名称\<br>
+cd 你的路径\文件夹名称\  <br>
 python -m venv .venv   <br>
 .\.venv\Scripts\activate  #window环境激活<br>
 
