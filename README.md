@@ -1,5 +1,5 @@
 # self-learning-note
-Microsoft courses：generative-ai-for-beginners and ai-agent-for-beginners;learning note
+Microsoft courses：generative-ai-for-beginners and ai-agent-for-beginners;learning note<br>
 课程笔记，主要采用本地模型进行，部分课程由于一些限制没有进行演示代码复刻，如image-generation course，因为foundry-local并未提供对应的图像生成程序。
 
 一些疑问与解答：
