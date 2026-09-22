@@ -2,6 +2,9 @@
 Microsoft courses：generative-ai-for-beginners and ai-agent-for-beginners;learning note<br>
 课程笔记，主要采用本地模型进行，部分课程由于一些限制没有进行演示代码复刻，如image-generation course，因为foundry-local并未提供对应的图像生成程序。
 
+由于设备性能限制，笔者计划近期转用deepseek国内接口进行后续学习，本地部署相关的内容并不过期，后续会陆续更新调用国内api的课程实践内容
+
+
 一些疑问与解答：
 
 Q1：为什么选用本地模型而非云端模型？<br>
